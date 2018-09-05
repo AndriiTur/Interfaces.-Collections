@@ -44,9 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bird.cs" />
+    <Compile Include="Builder.cs" />
+    <Compile Include="IDeveloper.cs" />
     <Compile Include="IFlyable.cs" />
     <Compile Include="Plane.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Programer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
